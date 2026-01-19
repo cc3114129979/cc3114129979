@@ -1,4 +1,4 @@
-## Hi there 👋
+## 技术小白学习中...
 
 <!--
 **cc3114129979/cc3114129979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
